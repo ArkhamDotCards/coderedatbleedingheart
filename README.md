@@ -5,7 +5,7 @@
 
 ---
 
-![](https://uploads-ssl.webflow.com/608a6a98b5956379a9c9e768/614bb3979b29ae18e67db00a_boxart-investigator-p-500.png)
+![](https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/product/enUS/coderedatbleedingheart-boxart.png?raw=true)
 
 The Code Red at Bleeding Hearr Scenario Pack contains 1 custom scenario which may be played standalone or as part of a larger campaign, and 1 custom investigator:
 
