@@ -1,11 +1,9 @@
 # Arkham Horror LCG: Code Red at Bleeding Heart
 
+![](https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/product/enUS/coderedatbleedingheart-boxart.png?raw=true)
+
 ### What?
 [Code Red at Bleeding Heart](#) is a 'fan-brew' scenaro pack designed by the [Arkham.cards](https://patreon.com/arkhamdotcards) team to be compatible with [Arkham Horror: The Card Game](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) by [Fantasy Flight Games](https://www.fantasyflightgames.com/).
-
----
-
-![](https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/product/enUS/coderedatbleedingheart-boxart.png?raw=true)
 
 The Code Red at Bleeding Hearr Scenario Pack contains 1 custom scenario which may be played standalone or as part of a larger campaign, and 1 custom investigator:
 
