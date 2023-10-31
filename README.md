@@ -13,7 +13,7 @@ The Code Red at Bleeding Hearr Scenario Pack contains 1 custom scenario which ma
 Code Red at Bleeding Heart was designed as a Halloween 2023 'promo' for Arkham.cards Patreon supporters.
 
 ### When?
-Code Red at Bleeding Heart v1.0 was initially released on XX/XX/XXXX.
+Code Red at Bleeding Heart v1.0 was initially released on 10/31/2023.
 
 ### Where?
 You can obtain the latest version of Code Red at Bleeding Heart in any of the following ways:
